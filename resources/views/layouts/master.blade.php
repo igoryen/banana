@@ -5,6 +5,7 @@
 		@yield( 'title', "Home Page" )
 	</title>
 	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="/css/all.css">
 </head>
 <body>
@@ -12,7 +13,7 @@
 
 		<ol>
 			<li><a href="/apple">apple</a></li>
-			<li><a href="/banana">banana</a></li>
+			<li><a href="/caimito">caimito</a></li>
 			<li><a href="/pear">pear</a></li>
 			
 		</ol>

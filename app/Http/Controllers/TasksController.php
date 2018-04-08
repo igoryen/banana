@@ -27,7 +27,7 @@ class TasksController extends Controller
         return view('pear')->with('title', 'Pear');
     }
 
-    public function banana(){
-        return view('banana')->with('title', 'Banana');
+    public function caimito(){
+        return view('caimito')->with('title', 'Caimito');
     }
 }

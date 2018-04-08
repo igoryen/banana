@@ -5,7 +5,7 @@
 		@yield( 'title', "Home Page" )
 	</title>
 	
-	<link rel="stylesheet" type="text/css" href="/css/app.css">
+	<link rel="stylesheet" type="text/css" href="/css/all.css">
 </head>
 <body>
 	<div class="container">

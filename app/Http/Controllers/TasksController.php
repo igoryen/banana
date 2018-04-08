@@ -30,4 +30,7 @@ class TasksController extends Controller
     public function caimito(){
         return view('caimito')->with('title', 'Caimito');
     }
+    public function capulin1(){
+        return view('capulin1')->with('title', 'capulin1');
+    }
 }

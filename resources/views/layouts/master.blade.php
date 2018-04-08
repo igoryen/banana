@@ -15,6 +15,8 @@
 			<li><a href="/apple">apple</a></li>
 			<li><a href="/caimito">caimito</a></li>
 			<li><a href="/pear">pear</a></li>
+			<li><a href="/capulin1">capulin1</a></li>
+
 			
 		</ol>
 		@yield( 'content')

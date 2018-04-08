@@ -23,8 +23,11 @@ var input = [
   'resources/assets/sass/no2.scss', 
   'resources/assets/sass/no3.scss', 
   'resources/assets/sass/debug.scss', 
+
   'resources/assets/sass/styles1.scss', 
-  'resources/assets/sass/styles2.scss'  
+  'resources/assets/sass/styles2.scss' , 
+  'resources/assets/sass/capulin1.scss'
+
 ];
 var output = 'public/css/';
 

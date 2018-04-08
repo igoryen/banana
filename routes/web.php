@@ -30,5 +30,7 @@ Route::get( '/pear', 'TasksController@pear');
 
 Route::get( '/banana', 'TasksController@banana');
 Route::get( '/caimito', 'TasksController@caimito');
+Route::get( '/capulin1', 'TasksController@capulin1');
+
 
 
